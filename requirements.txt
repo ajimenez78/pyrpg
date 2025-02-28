@@ -1,0 +1,4 @@
+packaging @ file:///croot/packaging_1734472117206/work
+pygame @ file:///home/conda/feedstock_root/build_artifacts/pygame_1727636417463/work
+setuptools==75.8.0
+wheel==0.45.1
